@@ -1,0 +1,37 @@
+*{margin:0px;
+    padding:0px;
+    box-sizing:border-box
+  }
+
+
+  img{width:100%}
+
+
+
+      table{border-collapse:collapse;width:100%;border:1px solid black;}
+{border:1px solid black}
+
+    .heading{background-color:black;
+              color:white;font-size:18px}
+
+
+      header{margin:10px;
+                     padding:20px;
+                     font-family:serif}
+
+                     .title{width:40px}
+
+                     .row{background-color:lightgray}
+
+                     td{border:1px solid black;padding:0px 20px }
+
+
+                     h1,h2{margin-bottom:10px}
+
+
+
+
+                     li{line-height:15px;border-bottom:1px solid #aaa;margin:18px 0px 18px 25px
+                     }
+
+                     .section{box-shadow:2px 2px 10px #ccc ;margin-top:10px;padding:20px;}
